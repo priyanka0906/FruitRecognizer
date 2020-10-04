@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293196473004",
+    "firebase_url": "https://fruit-recognizer-745f4.firebaseio.com",
+    "project_id": "fruit-recognizer-745f4",
+    "storage_bucket": "fruit-recognizer-745f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293196473004:android:94ef1731936933961a3509",
+        "android_client_info": {
+          "package_name": "com.example.fruitrecognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293196473004-ntvgb21n8gpf2bi9cgk50kgmufpiusbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fruitrecognizer",
+            "certificate_hash": "4f6810e23b3da97658bb2ec824346899fd6caac2"
+          }
+        },
+        {
+          "client_id": "293196473004-80lfhllc90rm2dq2to2qekcbms3j2bec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBvNL6Dm-oDrw_4n-5ysJ2kxI73oGlWY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293196473004-80lfhllc90rm2dq2to2qekcbms3j2bec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
